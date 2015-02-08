@@ -1,3 +1,8 @@
+
+## Solution To the Project 1 Exploratory Data Analysis
+
+This Repo contains the solution the the Project stated below.
+
 ## Introduction
 
 This assignment uses data from
